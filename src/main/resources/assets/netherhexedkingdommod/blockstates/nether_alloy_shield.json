@@ -1,0 +1,6 @@
+
+"defaults": 
+{
+  "model": "builtin/generated",
+  "transform": "forge:default-item"
+}

@@ -1,0 +1,22 @@
+{
+    "entity.netherguardsounds.nether_guard_hit":
+    {
+        "category": "entity",
+        "subtitle": "entity.netherguardsounds.nether_guard_hit",
+        "sounds": [{ "name": "netherhexedkingdommod:entity/netherguardsounds/nether_guard_hit", "stream": true }]
+    },
+    
+    "entity.netherguardsounds.nether_guard_death":
+    {
+        "category": "entity",
+        "subtitle": "entity.netherguardsounds.nether_guard_death",
+        "sounds": [{ "name": "netherhexedkingdommod:entity/netherguardsounds/nether_guard_death", "stream": true }]
+    },
+    
+    "entity.netherguardsounds.nether_guard_laugh":
+    {
+        "category": "entity",
+        "subtitle": "entity.netherguardsounds.nether_guard_ambient",
+        "sounds": [{ "name": "netherhexedkingdommod:entity/netherguardsounds/nether_guard_ambient", "stream": true }]
+    }
+}

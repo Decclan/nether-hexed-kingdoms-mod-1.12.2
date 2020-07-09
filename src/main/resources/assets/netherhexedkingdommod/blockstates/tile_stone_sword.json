@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "netherhexedkingdommod:tile_stone_sword" },
+        "facing=south": { "model": "netherhexedkingdommod:tile_stone_sword", "y": 180},
+        "facing=west":  { "model": "netherhexedkingdommod:tile_stone_sword", "y": 270},
+        "facing=east":  { "model": "netherhexedkingdommod:tile_stone_sword", "y": 90}
+    }
+}

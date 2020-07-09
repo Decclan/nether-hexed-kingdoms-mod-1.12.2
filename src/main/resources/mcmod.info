@@ -1,0 +1,16 @@
+[
+{
+  "modid": "netherhexedkingdommod",
+  "name": "Nether Hexed Kingdom",
+  "description": "Fragments of a long lost nether kingdom.",
+  "version": "2.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Deimos Hexxus"],
+  "credits": "The Forge and FML guys, The modding community",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
